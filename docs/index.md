@@ -1,22 +1,22 @@
-# FRC Learning Library
+<h1>FRC Learning Library</h1>
 
-### Table of Contents
-#### Absolute Basics (cant work on the robot if you dont know these)
+<h3>Table of Contents</h3>
+<h4>Absolute Basics (cant work on the robot if you dont know these)</h4>
   * [Robot Components](components/components.md)
 #### Electrical
-  * Soldering
-  * Crimping
-  * Stripping
-  * Connectors
-  * Holy Trinity Part 1 (Battery/PDP/VRM)
-  * Holy Trinity Part 2 (RoboRIO)
-  * Holy Trinity Part 3 (Java/Router)
-  * PoE
-  * Motors
-  * Encoders
-  * Layout
+  * [Soldering](skills/soldering.md)
+  * [Crimping]()
+  * [Stripping]()
+  * [Connectors]()
+  * [Holy Trinity Part 1 (Battery/PDP/VRM)]()
+  * [Holy Trinity Part 2 (RoboRIO)]()
+  * [Holy Trinity Part 3 (Java/Router)]()
+  * [PoE]()
+  * [Motors]()
+  * [Encoders]()
+  * [Layout]()
 #### Programming
   * Programming Motors
   * Programming Encoders
 #### Resources
-  * [FRC Electrical Bible](https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/)
+  * [FRC Electrical Bible](https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/) (Slightly outdated and uses C++, but still a good reference.)

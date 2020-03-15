@@ -1,5 +1,10 @@
-site_name: FRC LearningLibrary | Team 6498
+site_name: FRC Learning Library | Team 6498
 repo_url: https://github.com/DeltaDizzy/mmwiki6498NewbieLessons.git
 theme: readthedocs
 nav:
-    - Home: 'index.md'
+    - Start: 'index.md'
+    - 'Components':
+      - Basic Components: 'components/components.md'
+    - 'Skills':
+      - Essentials of Electrical: 'skills/circuits.md'
+      - Soldering: 'skills/soldering.md'
