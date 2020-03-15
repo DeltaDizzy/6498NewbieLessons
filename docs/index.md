@@ -2,7 +2,7 @@
 
 ### Table of Contents
 #### Absolute Basics (cant work on the robot if you dont know these)
-  * Robot Components
+  * [Robot Components](components.md)
 #### Electrical
   * Soldering
   * Crimping
