@@ -11,6 +11,7 @@
   * Holy Trinity Part 1 (Battery/PDP/VRM)
   * Holy Trinity Part 2 (RoboRIO)
   * Holy Trinity Part 3 (Java/Router)
+  * PoE
   * Motors
   * Encoders
   * Layout
