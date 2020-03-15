@@ -2,19 +2,22 @@
 
 ### Table of Contents
 #### Absolute Basics (cant work on the robot if you dont know these)
-  * [Robot Components](components/components.md)
+    * [Robot Components](components/components.md)
 #### Electrical
-  * Soldering
-  * Crimping
-  * Stripping
-  * Connectors
-  * Holy Trinity Part 1 (Battery/PDP/VRM)
-  * Holy Trinity Part 2 (RoboRIO)
-  * Holy Trinity Part 3 (Java/Router)
-  * PoE
-  * Motors
-  * Encoders
-  * Layout
+    * Soldering
+    * Crimping
+    * Stripping
+    * Connectors
+    * Holy Trinity Part 1 (Battery/PDP/VRM)
+    * Holy Trinity Part 2 (RoboRIO)
+    * Holy Trinity Part 3 (Java/Router)
+    * PoE
+    * Motors
+    * Encoders
+    * Layout
 #### Programming
-  * Programming Motors
-  * Programming Encoders
+    * Programming Motors
+    * Programming Encoders
+#### Resources
+    * [FRC Electrical Bible](https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/)
+    
