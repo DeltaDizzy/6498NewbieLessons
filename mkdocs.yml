@@ -1,0 +1,5 @@
+site_name: FRC LearningLibrary | Team 6498
+repo_url: https://github.com/DeltaDizzy/mmwiki6498NewbieLessons.git
+theme: readthedocs
+nav:
+    - Home: 'index.md'
