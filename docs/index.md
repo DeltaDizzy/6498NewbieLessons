@@ -4,9 +4,9 @@
 <h4>Absolute Basics (cant work on the robot if you dont know these)</h4>
   * [Robot Components](components/components.md)
 #### Electrical
+  * [Stripping](skills/stripping.md)
   * [Soldering](skills/soldering.md)
-  * [Crimping]()
-  * [Stripping]()
+  * [Crimping](skills/crimping.md)
   * [Connectors]()
   * [Holy Trinity Part 1 (Battery/PDP/VRM)]()
   * [Holy Trinity Part 2 (RoboRIO)]()
